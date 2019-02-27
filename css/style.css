@@ -651,7 +651,8 @@ div#preloader {
  10.Portfolio Area Css
 ----------------------------------------*/
 #portfolio {
-  background-color: #c7bcbc
+  background-color: #c7bcbc;
+  padding-bottom: 50px;
 }
 
 .pst-content {
